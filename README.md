@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hey there, I'm Subhash
 
-<!--
-**subhash005/subhash005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Android Developer | 💻 Java & Kotlin Craftsman | 🌱 Lifelong Learner | 🎯 Problem Solver with a Splash of Humor
 
-Here are some ideas to get you started:
+[![Gmail](https://img.shields.io/badge/-subhashsaw070@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:subhashsaw070@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link-here)
+[![Phone](https://img.shields.io/badge/-Call_Me-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+918800639017)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+A passionate Android developer who believes in writing clean code and building apps that don’t crash when your boss checks them 😅. Skilled in Java & Kotlin with Firebase superpowers, I craft mobile experiences that are both functional and fun (just like me, I hope).
+
+> "My apps don’t just run—they *flow* (with coroutines, of course 😉)."
+
+---
+
+## 🛠️ Skills That Pay the Bills
+
+- 💬 **Languages:** Java, Kotlin, C, C++
+- 📱 **Android Stack:** Android Studio, XML, Room, SQLite, Firebase
+- 🧠 **Architectures & Tools:** MVVM, Dagger Hilt, RecyclerView
+- 🔐 **Firebase:** Authentication, Realtime Database, Cloud Storage
+
+---
+
+## 💼 Work Experience
+
+**Java Developer Intern**  
+🧩 *Edumonics Learning Pvt. Ltd.* — *June 2022*
+
+- Debugged bugs before they could debug us 🐞
+- Implemented features using Java that didn’t just work but *worked well*
+- Reduced app load time by 20% (and no, not by removing features!)
+- Participated in code reviews like a true teammate 👨‍💻
+
+---
+
+## 🚀 Projects I’ve Built (and Brag About)
+
+### 🛒 E-Commerce App (Kotlin + Firebase)
+- Full-fledged e-commerce Android app
+- Real-time data sync with Firebase Realtime DB
+- Secure login/signup with Firebase Auth
+- Admin panel to manage products like a pro
+
+### 🌾 Crop Mart (Java + Firebase + Room)
+- A marketplace for farmers & buyers
+- Role-based access, crop inventory, and order handling
+- Admin panel: Add/Update/Delete crops with live data
+
+### 🎵 Music Player (Java)
+- Local music playback with background service
+- Beautiful, minimal UI and buttery-smooth controls
+- Because life needs background music!
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subhashkumar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashkumar&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+> 😄 *Fun fact:* I debug faster with coffee ☕ and fix bugs faster when they’re someone else’s.
+
+---
