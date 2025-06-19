@@ -3,8 +3,8 @@
 🚀 Android Developer | 💻 Java & Kotlin Craftsman | 🌱 Lifelong Learner | 🎯 Problem Solver with a Splash of Humor
 
 [![Gmail](https://img.shields.io/badge/-subhashsaw070@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:subhashsaw070@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link-here)
-[![Phone](https://img.shields.io/badge/-Call_Me-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+918800639017)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhash-saw)
+[![Instagram](https://img.shields.io/badge/-@subhash4613-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/subhash4613)
 
 ---
 
