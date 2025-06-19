@@ -69,3 +69,44 @@ A passionate Android developer who believes in writing clean code and building a
 > 😄 *Fun fact:* I debug faster with coffee ☕ and fix bugs faster when they’re someone else’s.
 
 ---
+## 🚀 Featured Projects
+
+### 🛒 [E-Commerce App](https://github.com/your-username/ecommerce-app)
+A complete Android app with product listings, cart, login/signup, and admin features.
+> Kotlin | Firebase | MVVM | XML UI
+
+### 🌾 [Crop Mart](https://github.com/your-username/crop-mart)
+Sell & manage crops via Firebase with role-based login (Admin & Customer).
+> Java | Room DB | Firebase Realtime | Authentication
+
+### 🎵 [Music Player](https://github.com/your-username/music-player)
+Android music player with background service and smooth UI.
+> Java | MediaPlayer | RecyclerView
+
+
+## 📱 App Previews
+
+### 📦 E-Commerce App
+<img src="https://yourdomain.com/demo-ecommerce.gif" width="250"/>
+
+### 🌾 Crop Mart
+<img src="https://yourdomain.com/demo-cropmart.gif" width="250"/>
+
+
+## 💬 Developer Philosophy
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House  
+> I build apps that solve real problems with clean code, solid architecture, and a touch of polish.
+
+
+## 📜 Certifications
+
+- [x] Android Development with Kotlin – Google
+- [x] Firebase for Android – Coursera
+- [x] Java Foundations – Oracle Academy
+
+
+## 🛠️ My Toolbox
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,git,sqlite,github,vscode" />
+
