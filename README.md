@@ -23,7 +23,7 @@ Whether it's crafting beautiful UI or integrating real-time features, I build ap
 Here’s what I play with daily to turn ideas into beautiful mobile apps:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,sqlite,database,vscode,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,sqlite,vscode,git,github,figma" />
 </p>
 
 ---
