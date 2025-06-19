@@ -10,18 +10,31 @@
 
 ## 🧠 About Me
 
-A passionate Android developer who believes in writing clean code and building apps that don’t crash when your boss checks them 😅. Skilled in Java & Kotlin with Firebase superpowers, I craft mobile experiences that are both functional and fun (just like me, I hope).
+I'm an Android developer who crafts mobile apps that are smooth, stable, and straight-up satisfying to use.  
+I specialize in building **user-centric apps** using **Java, Kotlin, Firebase**, and clean architectural patterns like MVVM.  
+Whether it's crafting beautiful UI or integrating real-time features, I build apps that *just work* — even when caffeine is low ☕.
 
-> "My apps don’t just run—they *flow* (with coroutines, of course 😉)."
+> “Code is like coffee. Too strong and nobody sleeps. Too weak and nobody moves.”
 
 ---
 
-## 🛠️ Skills That Pay the Bills
+## 🛠️ My Tech Toolbox
 
-- 💬 **Languages:** Java, Kotlin, C, C++
-- 📱 **Android Stack:** Android Studio, XML, Room, SQLite, Firebase
-- 🧠 **Architectures & Tools:** MVVM, Dagger Hilt, RecyclerView
-- 🔐 **Firebase:** Authentication, Realtime Database, Cloud Storage
+Here’s what I play with daily to turn ideas into beautiful mobile apps:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,sqlite,database,vscode,git,github,figma" />
+</p>
+
+---
+
+## 💡 Key Skills
+
+- **Languages:** Java, Kotlin, C, C++
+- **Mobile Development:** Android Studio, XML UI, RecyclerView, Services
+- **Databases:** Firebase, SQLite, Room Database
+- **Architectures:** MVVM, Dagger Hilt
+- **Tools & Platforms:** Git, GitHub, Figma, VS Code
 
 ---
 
@@ -30,99 +43,31 @@ A passionate Android developer who believes in writing clean code and building a
 **Java Developer Intern**  
 🧩 *Edumonics Learning Pvt. Ltd.* — *June 2022*
 
-- Debugged bugs before they could debug us 🐞
-- Implemented features using Java that didn’t just work but *worked well*
-- Reduced app load time by 20% (and no, not by removing features!)
-- Participated in code reviews like a true teammate 👨‍💻
+- Debugged bugs before they could debug us 🐞  
+- Implemented clean, scalable Java code for new app features  
+- Reduced app load time by 20% through performance tuning  
+- Participated in code reviews to keep the team sane and the code clean
 
 ---
 
-## 🚀 Projects I’ve Built (and Brag About)
+## 🚀 Projects I’m Proud Of
 
-### 🛒 E-Commerce App (Kotlin + Firebase)
-- Full-fledged e-commerce Android app
-- Real-time data sync with Firebase Realtime DB
-- Secure login/signup with Firebase Auth
-- Admin panel to manage products like a pro
+### 🛒 **E-Commerce App**
+> Kotlin · Firebase · MVVM · RecyclerView  
+A complete shopping experience — login, browse, cart, checkout, and admin dashboard. Real-time updates with Firebase for both users and admins.
 
-### 🌾 Crop Mart (Java + Firebase + Room)
-- A marketplace for farmers & buyers
-- Role-based access, crop inventory, and order handling
-- Admin panel: Add/Update/Delete crops with live data
+### 🌾 **Crop Mart**
+> Java · Firebase · Room DB  
+Marketplace app for farmers and buyers. Features include product listings, order tracking, and role-based access for admins and users.
 
-### 🎵 Music Player (Java)
-- Local music playback with background service
-- Beautiful, minimal UI and buttery-smooth controls
-- Because life needs background music!
+### 🎵 **Music Player**
+> Java · Media Player Service  
+Offline music player with smooth UI, background service support, and intuitive playback controls — because every coder needs background music 🎧.
 
 ---
 
-## 📊 GitHub Stats
+## 😄 Fun Fact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhashkumar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashkumar&layout=compact&theme=tokyonight" />
-</p>
+I debug faster with coffee, but I fix bugs faster when they’re someone else’s.
 
 ---
-
-> 😄 *Fun fact:* I debug faster with coffee ☕ and fix bugs faster when they’re someone else’s.
-
----
-
-
-## 🛠️ My Toolbox
-
-<img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,git,sqlite,github,vscode" />
-
-
-# 👋 Hey there, I'm Subhash
-
-🚀 Android Developer | 💻 Java & Kotlin Craftsman | 🌱 Lifelong Learner | 🎯 Problem Solver with a Splash of Humor
-
-[![Gmail](https://img.shields.io/badge/-subhashsaw070@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:subhashsaw070@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhash-saw)
-[![Instagram](https://img.shields.io/badge/-@subhash4613-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/subhash4613)
-
----
-
-## 🛠️ My Toolbox
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,git,sqlite,github,vscode,c,cpp,xml" />
-</p>
-
----
-
-## 💬 Developer Philosophy
-
-> “Make it work, make it right, make it fast.”  
-> I believe in writing clean, scalable code and building mobile apps that users love and bugs fear 😄.
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 [E-Commerce App](https://github.com/your-username/ecommerce-app)
-A fully functional Android shopping app with secure login, real-time product sync, and admin control.  
-> **Tech:** Kotlin | Firebase | MVVM | XML
-
----
-
-### 🌾 [Crop Mart](https://github.com/your-username/crop-mart)
-Crop sales and inventory app with role-based access for admins and customers.  
-> **Tech:** Java | Room | Firebase Auth & Realtime DB
-
----
-
-### 🎵 [Music Player](https://github.com/your-username/music-player)
-An Android music player with background service and intuitive controls for a smooth audio experience.  
-> **Tech:** Java | MediaPlayer | RecyclerView
-
----
-
-> 😄 *Fun fact:* I debug faster with coffee ☕ and fix bugs faster when they’re someone else’s.
-
----
-
-
