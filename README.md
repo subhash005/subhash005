@@ -75,3 +75,54 @@ A passionate Android developer who believes in writing clean code and building a
 
 <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,git,sqlite,github,vscode" />
 
+
+# 👋 Hey there, I'm Subhash
+
+🚀 Android Developer | 💻 Java & Kotlin Craftsman | 🌱 Lifelong Learner | 🎯 Problem Solver with a Splash of Humor
+
+[![Gmail](https://img.shields.io/badge/-subhashsaw070@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:subhashsaw070@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhash-saw)
+[![Instagram](https://img.shields.io/badge/-@subhash4613-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/subhash4613)
+
+---
+
+## 🛠️ My Toolbox
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,git,sqlite,github,vscode,c,cpp,xml" />
+</p>
+
+---
+
+## 💬 Developer Philosophy
+
+> “Make it work, make it right, make it fast.”  
+> I believe in writing clean, scalable code and building mobile apps that users love and bugs fear 😄.
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 [E-Commerce App](https://github.com/your-username/ecommerce-app)
+A fully functional Android shopping app with secure login, real-time product sync, and admin control.  
+> **Tech:** Kotlin | Firebase | MVVM | XML
+
+---
+
+### 🌾 [Crop Mart](https://github.com/your-username/crop-mart)
+Crop sales and inventory app with role-based access for admins and customers.  
+> **Tech:** Java | Room | Firebase Auth & Realtime DB
+
+---
+
+### 🎵 [Music Player](https://github.com/your-username/music-player)
+An Android music player with background service and intuitive controls for a smooth audio experience.  
+> **Tech:** Java | MediaPlayer | RecyclerView
+
+---
+
+> 😄 *Fun fact:* I debug faster with coffee ☕ and fix bugs faster when they’re someone else’s.
+
+---
+
+
